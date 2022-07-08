@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nizomiddin</h1>
-<h3 align="center">PHP developer</h3>
+<h1 align="center">PHP developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programm011&label=Profile%20views&color=0e75b6&style=flat" alt="programm011" /> </p>
 
