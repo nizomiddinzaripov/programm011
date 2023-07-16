@@ -1,4 +1,3 @@
-<h1 align="center">PHP developer</h1>
 <p align="left">
 <a href="https://stackoverflow.com/users/11020282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11020282" height="30" width="40" /></a>
   
